@@ -1,1 +1,1 @@
-# desafio-banc-rio-DIO
+# desafio-bancário-DIO
